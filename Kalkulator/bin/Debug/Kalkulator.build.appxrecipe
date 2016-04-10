@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-KGFQO2H</Machine>
+    <WindowsUser>Blazej-lap</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>37d72a8e-1ae2-4a90-9e70-d9cb0163bd79</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.exe">
+      <PackagePath>Kalkulator.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll">
+      <PackagePath>Antlr3.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\packages\YAMP.1.5.3.15660\lib\portable-net40+sl50+win+wpa81+wp80+MonoAndroid10+xamarinios10+MonoTouch10\YAMP.dll">
+      <PackagePath>YAMP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.xr.xml">
+      <PackagePath>Kalkulator.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\ScientificMode.xbf">
+      <PackagePath>ScientificMode.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

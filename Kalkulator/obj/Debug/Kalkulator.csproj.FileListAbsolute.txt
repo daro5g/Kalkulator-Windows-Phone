@@ -1,0 +1,232 @@
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\App.xbf
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\MainPage.xbf
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xr.xml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\resources.pri
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\AppxManifest.xml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\App.g.i.cs
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\MainPage.g.i.cs
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\MainPage.g.cs
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\App.xaml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\App.xbf
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\MainPage.xaml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\MainPage.xbf
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\priconfig.xml
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\priconfig.xml.intermediate
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\layout.resfiles
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\layout.resfiles.intermediate
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\resources.resfiles
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\resources.resfiles.intermediate
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\pri.resfiles
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\pri.resfiles.intermediate
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\qualifiers.txt
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Google Drive 10\Kiedyś będę inżynierem\6 Semestr\Mobilne appki\Windows Phone\Kalkulator\Kalkulator\obj\Debug\ProjectArchitectures.txt
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.i.cs
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.cs
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.i.cs
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.cs
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xaml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xaml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xbf
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xbf
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.pdb
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\App.xbf
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\MainPage.xbf
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.xr.xml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\resources.pri
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\AppxManifest.xml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml.intermediate
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles.intermediate
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles.intermediate
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles.intermediate
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\ProjectArchitectures.txt
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.dll
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.pdb
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.dll
+F:\Google Drive 10\GitHub\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\App.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\MainPage.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.xr.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\resources.pri
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\AppxManifest.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.dll
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.i.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.i.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xaml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xaml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone\Kalkulator\obj\Debug\ProjectArchitectures.txt
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\App.xbf
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\MainPage.xbf
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.xr.xml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\resources.pri
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\AppxManifest.xml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.dll
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.dll
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\Antlr3.Runtime.pdb
+F:\Programs\Kalkulator Windows Phone\Kalkulator\bin\Debug\YAMP.xml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.i.cs
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.g.cs
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.i.cs
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.g.cs
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xaml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xaml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\App.xbf
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\MainPage.xbf
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.pdb
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\priconfig.xml.intermediate
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\layout.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\resources.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\pri.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Programs\Kalkulator Windows Phone\Kalkulator\obj\Debug\ProjectArchitectures.txt
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\App.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\MainPage.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\ScientificMode.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.xr.xml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.exe
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.pdb
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\resources.pri
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\AppxManifest.xml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Antlr3.Runtime.dll
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\YAMP.dll
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Antlr3.Runtime.pdb
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\YAMP.xml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.g.i.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.g.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.g.i.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.g.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.g.i.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.g.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.xaml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.xaml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.xaml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.xbf
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.exe
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.pdb
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\priconfig.xml
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\priconfig.xml.intermediate
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\layout.resfiles
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\layout.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\resources.resfiles
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\resources.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\pri.resfiles
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\pri.resfiles.intermediate
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\qualifiers.txt
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Programs\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ProjectArchitectures.txt
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\App.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\MainPage.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\ScientificMode.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.xr.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\resources.pri
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\AppxManifest.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Kalkulator.build.appxrecipe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\YAMP.dll
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\bin\Debug\YAMP.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.g.i.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.g.i.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.g.i.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.xaml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.xaml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.xaml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\App.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MainPage.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ScientificMode.xbf
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\priconfig.xml
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\priconfig.xml.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\layout.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\layout.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\resources.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\resources.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\pri.resfiles
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\pri.resfiles.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\qualifiers.txt
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Blazej-lap\Downloads\Kalkulator Windows Phone - Copy\Kalkulator\obj\Debug\ProjectArchitectures.txt
